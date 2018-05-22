@@ -38,6 +38,7 @@ void main()
 	printf("h = ");
 	scanf("%d", &h);
 
+
 	d = sqrt(h*(2 * r + h));
 
 	printf("d = %d\n");
