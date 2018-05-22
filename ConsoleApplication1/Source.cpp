@@ -36,7 +36,11 @@ void main()
 	float d;
 
 	printf("h = ");
-	scanf("%d")
+	scanf("%d", &h);
+
+	d = sqrt(h*(2 * r + h));
+
+	printf("d = %d\n");
 	
 
 
